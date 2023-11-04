@@ -19,8 +19,10 @@ The goal of this project is to perform data analytics on Uber data using various
 
 1. Data preparation for dashboard:
 
-{Add screenshot of data preparation}
+
+![Screenshot](DataPreparation_Quicksight.png)
 
 2. Visualization
 
-{Add screenshot of dashboard}
+
+![Screenshot](Uber_Dashboard.png)
